@@ -1,7 +1,7 @@
 # Kevin-Chen_Porfolio
 Data Science Portfolio 
 
-# Project 1: Predict the Growth Rates of YouTube Videos 
+# [Project 1: Predict the Growth Rates of YouTube Videos](https://github.com/kevinchen70632/Project_Predict-YouTube-Video-Growth-Rate)
 * Predicted the growth rates of 259 YouTube Videos in the first 4 hours using random forest in R 
 * Performed feature selection to select the influential variables and eliminate the correlated variables 
 * Generated suggestions about release time, video title, and cover photo to optimize video view growth rates 
